@@ -946,7 +946,7 @@
 	keep-power-in-suspend;
 	enable-sdio-wakeup;
 	status = "okay";
-};s
+};
 
 &wdog1 {
 	status = "disabled";
